@@ -1,6 +1,6 @@
 # 🌟 welcome to my github profile! 🌟
 
-![Header]((https://github.com/prodbyeternal/prodbyeternal/blob/main/header.png?raw=true))
+![Header]([(https://raw.githubusercontent.com/prodbyeternal/prodbyeternal/main/header.png))
 
 ## 🖥️ about
 
@@ -53,4 +53,4 @@ If you like what I do, consider buying me a coffee! ☕
 
 ---
 
-![Footer]((https://github.com/prodbyeternal/prodbyeternal/blob/main/footer.png?raw=true))
+![Footer]((https://raw.githubusercontent.com/prodbyeternal/prodbyeternal/main/footer.png))
