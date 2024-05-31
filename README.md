@@ -52,7 +52,7 @@
 
 If you like what I do, consider buying me a coffee! ☕
 
-![Tip me](https://img.shields.io/badge/PayPal-blue?logo=paypal)](https://paypal.me/eternalrzr)
+[![Tip me](https://img.shields.io/badge/PayPal-blue?logo=paypal)](https://paypal.me/eternalrzr)
 
 ---
 
