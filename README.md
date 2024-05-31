@@ -48,9 +48,8 @@
 
 ---
 
-## 💖 Support My Work
-
-If you like what I do, consider buying me a coffee! ☕
+## 💖 support me
+if you like what i do, you can tip me if you want to! :D
 
 [![Tip me](https://img.shields.io/badge/PayPal-blue?logo=paypal)](https://paypal.me/eternalrzr)
 
