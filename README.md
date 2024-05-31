@@ -1,6 +1,6 @@
 # 🌟 welcome to my github profile! 🌟
 
-![Header](https://repository-images.githubusercontent.com/XXXXX/YOUR_IMAGE_URL)
+![Header]([https://repository-images.githubusercontent.com/XXXXX/YOUR_IMAGE_URL](https://github.com/prodbyeternal/prodbyeternal/blob/main/header.png?raw=true))
 
 ## 🖥️ about
 
@@ -53,4 +53,4 @@ If you like what I do, consider buying me a coffee! ☕
 
 ---
 
-![Footer](https://repository-images.githubusercontent.com/XXXXX/YOUR_IMAGE_URL)
+![Footer]([https://repository-images.githubusercontent.com/XXXXX/YOUR_IMAGE_URL](https://github.com/prodbyeternal/prodbyeternal/blob/main/header.png?raw=true))
