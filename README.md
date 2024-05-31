@@ -21,12 +21,15 @@
 - 🖥️ batch
 - 🦑 lua (beginner)
 - 🟨 javascript (beginner)
+- 🟥 html5
+- 🟦 css
 
 ### tools & technologies
-- 🎧 FL Studio 21
-- 🎨 Adobe Creative Suite
-- 🔧 Git & GitHub
-
+- 🎧 fl studio 21
+- 🎨 adobe creative suite
+- 🔧 git & github
+- 🐧 linux
+- 🪟 windows server
 ---
 
 ## 📊 github stats
@@ -49,7 +52,7 @@
 
 If you like what I do, consider buying me a coffee! ☕
 
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FCC624?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://buymeacoffee.com/YOUR_PROFILE)
+[![PayPal Me]([https://img.shields.io/badge/PayPal-blue?logo=paypal])(https://paypal.me/eternalrzr)
 
 ---
 
