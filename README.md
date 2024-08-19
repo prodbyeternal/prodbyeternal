@@ -8,7 +8,7 @@
 
 - 🌐 fluent in **python**, **bash**, and **batch**
 - 🔄 learning a bit of **lua** and js.
-- 🎵 music producer using **FL Studio 21** and affiliated with n1ght0wl and clubnoise
+- 🎵 music producer using **FL Studio 21**
 - 🎨 passionate **graphic designer**
 
 ---
