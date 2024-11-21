@@ -8,7 +8,7 @@
 
 - 🌐 fluent in **python**, **bash**, and **batch**
 - 🔄 learning a bit of **lua** and js.
-- 🎵 music producer using **FL Studio 21**
+- 🎵 music producer using **FL Studio 24**
 - 🎨 passionate **graphic designer**
 
 ---
@@ -25,7 +25,7 @@
 - 🟦 css
 
 ### tools & technologies
-- 🎧 fl studio 21
+- 🎧 fl studio 24
 - 🎨 adobe creative suite
 - 🔧 git & github
 - 🐧 linux
@@ -42,8 +42,8 @@
 
 ## 🌈 contact
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/h4lfpayne)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ethervxd)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ether2real)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/thoublaze)
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://prodbyeternal.xyz)
 
 ---
