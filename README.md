@@ -7,7 +7,7 @@
 'ello. i'm **prodbyeternal.** 👋
 
 - 🌐 fluent in **python**
-- 🔄 learning a bit of **R Script**
+- 🔄 learning a bit of **Ruby and Rust**
 - 🎵 music producer using **FL Studio 24**
 - 🎨 passionate **graphic designer**
 
@@ -17,8 +17,8 @@
 
 ### programming languages
 - 🐍 python
-- 🖥️ batch
-- 🟨 javascript (beginner)
+- 💎 ruby
+- 🖥️ bash
 - 🟥 html5
 - 🟦 css
 
@@ -42,7 +42,7 @@
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ether2real)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/thoublaze)
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://prodbyeternal.xyz)
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://haunt.gg/renard)
 
 ---
 
