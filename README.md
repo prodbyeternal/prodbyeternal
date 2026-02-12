@@ -10,6 +10,7 @@
 - 🔄 learning a bit of **Ruby and Rust**
 - 🎵 music producer using **FL Studio 24**
 - 🎨 passionate **graphic designer**
+- 🖥️ passionate macOS tinkerer.
 
 ---
 
@@ -30,17 +31,9 @@
 - 🪟 windows server
 ---
 
-## 📊 github stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prodbyeternal&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prodbyeternal&layout=compact&theme=radical)
-
----
-
 ## 🌈 contact
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ether2real)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/airacceleration)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/thoublaze)
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://haunt.gg/renard)
 
