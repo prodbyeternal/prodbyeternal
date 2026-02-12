@@ -8,7 +8,7 @@
 
 - 🌐 fluent in **python**
 - 🔄 learning a bit of **Ruby and Rust**
-- 🎵 music producer using **FL Studio 24**
+- 🎵 music producer using **FL Studio**
 - 🎨 passionate **graphic designer**
 - 🖥️ passionate macOS tinkerer.
 
@@ -24,7 +24,7 @@
 - 🟦 css
 
 ### tools & technologies
-- 🎧 fl studio 24
+- 🎧 fl studio
 - 🎨 adobe creative suite
 - 🔧 git & github
 - 🐧 linux
