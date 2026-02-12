@@ -10,7 +10,7 @@
 - 🔄 learning a bit of **Ruby and Rust**
 - 🎵 music producer using **FL Studio**
 - 🎨 passionate **graphic designer**
-- 🖥️ passionate macOS tinkerer.
+- 🖥️ macOS tinkerer
 
 ---
 
