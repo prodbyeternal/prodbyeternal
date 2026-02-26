@@ -1,0 +1,6 @@
+# why rust?
+ocrecovery-rs started as a personal experiment - I wanted to get my hands dirty with Rust and thought porting a tool I already understood well was the best way to do it.
+the original Python script worked fine, but it came with the usual Python baggage: you need the right interpreter installed, pip has to pull in rich on first run, and startup is slow. on top of that, Python's dynamic nature means a lot of bugs only surface at runtime, sometimes halfway through a 600 MB download.
+rewriting it in Rust fixed all of that. the binary is fully self-contained - no interpreter, no dependencies, just a single executable you drop anywhere and run. startup is instant, memory usage is a fraction of what Python needs, and the type system catches entire classes of bugs at compile time that Python would let slip through silently.
+it also gave the TUI a proper foundation. ratatui + crossterm handle terminal rendering natively with no overhead, and the download runs on a background thread with shared state that the UI reads safely - something that would be a lot messier to pull off correctly in Python.
+overall it was a great first Rust project. the borrow checker is humbling at first, but once it clicks you end up with code that's genuinely more reliable than the Python equivalent - and a tool that just works, everywhere, without any setup.
