@@ -6,11 +6,11 @@
 
 'ello. i'm **prodbyeternal.** 👋
 
-- 🌐 fluent in **python**
+- 🌐 fluent in **python and bash**
 - 🔄 learning a bit of **Ruby and Rust**
 - 🎵 music producer using **FL Studio**
 - 🎨 passionate **graphic designer**
-- 🖥️ macOS tinkerer
+- 🖥️ source engine extraordinaire
 
 ---
 
@@ -29,6 +29,7 @@
 - 🔧 git & github
 - 🐧 linux
 - 🪟 windows server
+- 🤖 agentic code assist (gemini/claude)
 ---
 
 ## 🌈 contact
