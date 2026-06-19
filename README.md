@@ -40,4 +40,10 @@
 
 ---
 
+## important note
+
+please do not take my stuff as something really serious, i'm lowkey doing it because it's fun for me and I love putting ideas from my head into working programs.
+
+programs like oxidesnes shouldnt be taken as a serious emulator. it's just a proof of concept.
+
 <img src=https://raw.githubusercontent.com/prodbyeternal/prodbyeternal/main/footer.png></img>
