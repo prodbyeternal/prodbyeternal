@@ -69,10 +69,5 @@ These are merely just tools for me, myself, and I do it because I love developin
 
 ------------------------------------------------------------------------
 
-[![GitHub
-stats](https://github-readme-stats.vercel.app/api?username=prodbyeternal&show_icons=true&hide_border=true&bg_color=00000000&title_color=888888&text_color=888888&icon_color=888888)](https://github.com/prodbyeternal)
-
-[![Top
-languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prodbyeternal&layout=compact&hide_border=true&bg_color=00000000&title_color=888888&text_color=888888)](https://github.com/prodbyeternal)
 
 *software built with <3.*
