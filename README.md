@@ -31,7 +31,7 @@ A selection of projects from my public repositories:
 
 | Project | What it is |
 |---|---|
-| [APATOKEN](https://github.com/prodbyeternal/apatoken) | An application project with Android and iOS support. |
+| [APATOKEN](https://github.com/prodbyeternal/apatoken) | An application for APATOR's electricity meters for Apple devices. |
 | [Needle](https://github.com/prodbyeternal/needle) | A vinyl-inspired music player. |
 | [inpost-tui](https://github.com/prodbyeternal/inpost-tui) | A terminal-based InPost parcel tracker. |
 | [prodbyeternal.github.io](https://github.com/prodbyeternal/prodbyeternal.github.io) | A PS4 WebKit project targeting firmware 13.xx. |
